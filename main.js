@@ -43,7 +43,7 @@ class BlockChain {
   }
 }
 
-// ========================= TEST ===========================
+// ========================= TEST =========================
 // ======== Initialize a new BlockChain
 // const OfficialBlockchain = new BlockChain();
 
